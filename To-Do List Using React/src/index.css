@@ -1,0 +1,21 @@
+/*
+
+Statement of AUthorship: 
+"StAuth10244: I Manan Hirenbhai Patel, 000812466 certify that this material is my original 
+work. No other person's work has been used without due acknowledgement. I have not made
+ my work available to anyone else."
+*/
+
+body {
+  margin: 15px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

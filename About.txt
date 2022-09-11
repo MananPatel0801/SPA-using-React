@@ -1,0 +1,6 @@
+This is a single page application using React.
+
+The web page allows CRUD functionality.
+You can add a task to your TODO list.
+You can Delete a task from your TODO list.
+You can edit your existing task into the TODO list.
