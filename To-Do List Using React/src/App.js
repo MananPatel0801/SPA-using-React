@@ -1,9 +1,5 @@
 /*
-
-Statement of AUthorship: 
-"StAuth10244: I Manan Hirenbhai Patel, 000812466 certify that this material is my original 
-work. No other person's work has been used without due acknowledgement. I have not made
- my work available to anyone else."
+Author: Manan Patel
 */
 
 import React from 'react';
